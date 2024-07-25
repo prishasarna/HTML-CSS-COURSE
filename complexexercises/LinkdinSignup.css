@@ -1,0 +1,39 @@
+.join-button{
+width:400px;
+background-color:rgb(10, 102, 194);
+border-radius: 30px;
+color: white;
+border: none ;
+cursor: pointer;
+font-size:20px;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+p{
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    margin-top: 0;
+    margin-bottom: 0;
+      
+}
+.email{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.email-box{
+    height:20px;
+    width: 400px;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right :10px;
+    border: 2px solid rgb(100, 100, 100);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+.policy{
+    margin-bottom: 20px;
+    font-size: 16px;
+}

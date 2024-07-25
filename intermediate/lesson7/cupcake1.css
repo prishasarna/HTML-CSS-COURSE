@@ -1,0 +1,11 @@
+.cupcake{
+    width: 200px;
+    border-radius: 12px;
+}
+.cupcake2{
+    margin:40px;
+    border: 2px;
+    border-color: black ;
+    object-position: center;
+
+}

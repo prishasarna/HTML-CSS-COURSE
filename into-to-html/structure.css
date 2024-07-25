@@ -1,0 +1,18 @@
+
+p {
+    font-family: 'Times New Roman';
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+.model {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.underline {
+    text-decoration:underline;
+
+}
+

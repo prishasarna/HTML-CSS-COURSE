@@ -1,0 +1,24 @@
+*{
+    background-color: aqua;
+}
+.container{
+    border: 5px solid darkgreen;
+    padding: 30px;
+    margin:30px;
+}
+.box{
+    height: 100px;
+    width:100px;
+    background-color: gold;
+    margin: 10px;
+    display: inline;
+    display: inline-block;
+}
+.para{
+    margin-top:10%;
+    height: 100px;
+    width:200px;
+    border: 5px solid brown;
+    overflow: auto;
+
+}
